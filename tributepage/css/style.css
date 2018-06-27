@@ -1,0 +1,16 @@
+#main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  background-color: beige;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+#img-caption {
+  text-align: center;
+}
